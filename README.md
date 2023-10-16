@@ -1,4 +1,5 @@
 ### Hi there 👋
+Myself Ronit Kumar Baranwal , an aspiring full stack MERN developer. Currently in B.Tech 3rd year pursuing CSE from JAdavpur University.
 
 <!--
 **RonitBaranwal/RonitBaranwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![@ronitbaranwal's Holopin board] https://holopin.me/ronitbaranwal
