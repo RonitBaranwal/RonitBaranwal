@@ -1,5 +1,5 @@
 ### Hi there 👋
-Myself Ronit Kumar Baranwal , an aspiring full stack MERN developer. Currently in B.Tech 3rd year pursuing CSE from JAdavpur University.
+Myself Ronit Kumar Baranwal , Full stack developer with a nag for data science. Currently working and got passed from Jadavpur University.
 
 <!--
 **RonitBaranwal/RonitBaranwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
