@@ -1,5 +1,5 @@
 ### Hi there 👋
-Myself Ronit Kumar Baranwal , Full stack developer with a nag for data science. Currently working and got passed from Jadavpur University.
+Myself Ronit Kumar Baranwal , Love playing with data , part of data team and also love building full stack project. Currently working as a software engineer. Completed by bachelors degree from Jadavpur University CSE branch.
 
 <!--
 **RonitBaranwal/RonitBaranwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
